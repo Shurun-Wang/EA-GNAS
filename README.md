@@ -1,7 +1,5 @@
 # EA-GNAS
-I am now writing the paper about this project.
-
-Following is the description of this project.
+PyTorch Source code for "Optimizing Graph Neural Network Architectures for Schizophrenia Spectrum Disorder Prediction Using Evolutionary Algorithms", Under Review.
 
 Coming Soon ! :relaxed: :relaxed: :relaxed:
 
