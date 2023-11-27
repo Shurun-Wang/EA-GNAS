@@ -10,8 +10,8 @@ Coming Soon ! :relaxed: :relaxed: :relaxed:
 ## How to run this project
 This project contains one main file as follows:
 
-### Step 1: Searching the proper structure of the graph neural network
+### Searching the proper structure of the graph neural network
 `python main_IOAGraph.py `
-- Here, you can get the proper model structure.
+- Here, you can get the proper model structure （Search flag = True）.
   - Switch different intelligient optimization algorithms.
-- Also, you can train and test the proper model structure.
+- Also, you can train and test the proper model structure （explain flag = True）.
