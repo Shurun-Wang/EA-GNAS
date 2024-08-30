@@ -30,7 +30,6 @@ if __name__ == '__main__':
         from checkpoints.searched_structure import one_structure
         structure = one_structure('ga')
         ioa.train_test_explain_one_structure(structure)
-        # ioa.explain(structure)
 
 
 
