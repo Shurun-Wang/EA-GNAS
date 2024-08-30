@@ -15,4 +15,4 @@ This project contains one main file as follows:
 `python main_IOAGraph.py `
 - Here, you can get the proper model structure （Search flag = True）.
   - Switch different intelligient optimization algorithms.
-- Also, you can train and test the proper model structure （explain flag = True）.
+- Also, you can train, test, and explain the proper model structure （explain flag = True）.
