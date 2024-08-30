@@ -4,8 +4,7 @@ PyTorch Source code for "Optimizing Graph Neural Network Architectures for Schiz
 You can also find other open-sourced biomedical signal analysis projects in my [academic](https://shurun-wang.github.io/) page. :relaxed: :relaxed: :relaxed:
 
 ## Data Preparation
- - HC/SCH data should download in
-    `Data/HC_SCH/`
+ - HC/SCH data needs to be downloaded and placed in `Data/HC_SCH/`
  - The user needs to obtain data usage rights from the webpage [https://bicr-resource.atr.jp/srpbsfc/](https://bicr-resource.atr.jp/srpbsfc/)
 
 ## How to run this project
